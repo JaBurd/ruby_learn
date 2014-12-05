@@ -29,3 +29,4 @@ puts t1.to_s
 puts t2.to_s
 # The inspect method lets you look inside an object
 puts "Inspecting 1st treasure: #{t1.inspect}"
+puts "Inspecting 2nd treasure: #{t2.inspect}"
