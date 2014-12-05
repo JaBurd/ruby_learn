@@ -23,8 +23,8 @@ thing1 = Thing.new
 thing1.set_name( "A lovely Thing")
 puts thing1.get_name
 
-t1 = Treasure.new("Sword", "an Elvish weapon forged of gold")
-t2 = Treasure.new("Ring", "a magic ring of great power")
+t1 = Treasure.new("Sword", "an Elvish weapon forged of gold with a diamond hilt.")
+t2 = Treasure.new("Ring", "a magic ring of great power -Precious")
 puts t1.to_s
 puts t2.to_s
 # The inspect method lets you look inside an object
